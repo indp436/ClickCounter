@@ -1,0 +1,21 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(195, 233, 220);
+  height: 100vh;
+  background-size: cover;
+  font-family: 'roboto';
+}
+.button {
+  height: 30px;
+  width: 100px;
+  background-color: rgb(92, 166, 236);
+  color: #ffffff;
+  border-radius: 0 solid;
+  border-color: ;
+}
+.span {
+  color: rgb(215, 95, 219);
+}
